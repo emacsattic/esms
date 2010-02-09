@@ -1,0 +1,10 @@
+2001-12-13  Jarl Friis  <jarl>
+
+	*  (Repository): Added support for {it,es}.gsmbox.com, fixed bug
+	in uk.gsmbox.com
+
+2001-12-12  Jarl Friis  <jarl>
+
+	* esms.el (esms--generic-HTTP-chain-requester): My initial
+	real ChangeLog entry, converting from CHANGELOG
+
